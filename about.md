@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+ASP.Net Full-Stack Developer
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Front-End : HTML, CSS, JavaScript, JQuery, ASP.Net Server Control
+Back-End : C#, VB
+Database : MS-SQL
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kysung14@gmail.com](mailto:kysung14@gmail.com)
