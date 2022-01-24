@@ -9,7 +9,9 @@ ASP.Net Full-Stack Developer
 ### More Information
 
 Front-End : HTML, CSS, JavaScript, JQuery, ASP.Net Server Control
+
 Back-End : C#, VB
+
 Database : MS-SQL
 
 ### Contact me
